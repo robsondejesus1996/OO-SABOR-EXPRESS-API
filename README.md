@@ -1,6 +1,6 @@
 <p align="center">
   <a href=https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api>
-    <img src="https://github.com/robsondejesus1996/SABOR-EXPRESS-OO/assets/31260719/956fde2d-7b6b-456d-b1b9-dba5feb3b22a" alt="Python: avance na Orientação a Objetos e consuma API">
+    <img src="https://github.com/robsondejesus1996/OO-SABOR-EXPRESS-API/assets/31260719/544cbc54-a239-4832-9a2c-fea8a02f176b" alt="Python: avance na Orientação a Objetos e consuma API">
   </a>
 </p>
 
